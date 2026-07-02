@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -35,8 +37,18 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
