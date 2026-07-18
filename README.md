@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/dalemohit05/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -110,5 +112,6 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
