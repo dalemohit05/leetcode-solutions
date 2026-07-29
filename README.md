@@ -9,12 +9,14 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -100,6 +102,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dalemohit05/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -111,6 +114,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -121,6 +125,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
