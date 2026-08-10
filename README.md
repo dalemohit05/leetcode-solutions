@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [0628-maximum-product-of-three-numbers](https://github.com/dalemohit05/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/dalemohit05/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dalemohit05/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -40,6 +41,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dalemohit05/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/dalemohit05/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -158,6 +160,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Two Pointers
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dalemohit05/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
