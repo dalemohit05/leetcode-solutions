@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/dalemohit05/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dalemohit05/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [1301-number-of-paths-with-max-score](https://github.com/dalemohit05/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dalemohit05/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
