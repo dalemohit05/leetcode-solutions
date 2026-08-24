@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dalemohit05/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
