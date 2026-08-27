@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -141,6 +143,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -148,6 +151,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -191,6 +195,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [2029-stone-game-ix](https://github.com/dalemohit05/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
