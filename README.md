@@ -215,4 +215,8 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/dalemohit05/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dalemohit05/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
