@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dalemohit05/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
