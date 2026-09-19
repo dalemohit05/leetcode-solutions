@@ -129,6 +129,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/dalemohit05/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dalemohit05/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dalemohit05/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -240,4 +241,8 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dalemohit05/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dalemohit05/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
