@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dalemohit05/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/dalemohit05/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dalemohit05/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -146,6 +147,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dalemohit05/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dalemohit05/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dalemohit05/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/dalemohit05/leetcode-solutions/tree/master/3870-count-commas-in-range) |
