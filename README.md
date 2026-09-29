@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dalemohit05/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -255,4 +256,8 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dalemohit05/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
