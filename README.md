@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -260,4 +261,12 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
