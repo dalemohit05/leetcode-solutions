@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/dalemohit05/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dalemohit05/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dalemohit05/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -269,4 +271,9 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
