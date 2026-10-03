@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dalemohit05/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dalemohit05/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dalemohit05/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3546-equal-sum-grid-partition-i](https://github.com/dalemohit05/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dalemohit05/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/dalemohit05/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dalemohit05/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dalemohit05/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dalemohit05/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -81,6 +83,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [2685-count-the-number-of-complete-components](https://github.com/dalemohit05/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dalemohit05/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
@@ -153,6 +156,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [3536-maximum-product-of-two-digits](https://github.com/dalemohit05/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dalemohit05/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dalemohit05/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dalemohit05/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/dalemohit05/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dalemohit05/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -189,6 +193,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dalemohit05/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dalemohit05/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
 | ------- |
