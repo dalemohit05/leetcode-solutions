@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dalemohit05/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dalemohit05/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dalemohit05/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -284,4 +285,8 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/dalemohit05/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
