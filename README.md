@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 | ------- |
 | [0020-valid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0796-rotate-string](https://github.com/dalemohit05/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dalemohit05/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dalemohit05/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dalemohit05/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dalemohit05/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dalemohit05/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -281,4 +283,5 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dalemohit05/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
